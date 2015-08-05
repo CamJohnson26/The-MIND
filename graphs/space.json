@@ -1,0 +1,7 @@
+[{
+	"graphID" : "Space", 
+	"startNodes" : [
+		"space_node.txt"
+	],
+	"nexts" : []
+}]

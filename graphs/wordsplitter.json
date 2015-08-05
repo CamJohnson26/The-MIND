@@ -1,0 +1,7 @@
+[{
+	"graphID" : "WordSplitter", 
+	"startNodes" : [
+		"word_splitter_node"
+	],
+	"nexts" : []
+}]

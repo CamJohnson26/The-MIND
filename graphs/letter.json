@@ -1,0 +1,7 @@
+[{
+	"graphID" : "Letter", 
+	"startNodes" : [
+		"letter_node.txt"
+	],
+	"nexts" : []
+}]

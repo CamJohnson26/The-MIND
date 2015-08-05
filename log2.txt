@@ -1,0 +1,383 @@
+Found------------------------------------------------------------
+
+ID:			 Space
+Current String:			 
+Parsed Object:		 None
+Start Node:		 None
+Current Nodes:		 None
+Can be Done:		 False
+Must be Done:		 False
+Steps:			 0
+Added Indices:		 []
+Matching Object:	 Graph Space_node: [''] 
+Nexts:			 
+			Graph Number:  8h7oijmigq
+Added Word:		 False
+Guid:			 6qsovf9fxc
+
+
+ID:			 Boolean
+Current String:			 
+Parsed Object:		 None
+Start Node:		 None
+Current Nodes:		 None
+Can be Done:		 False
+Must be Done:		 False
+Steps:			 0
+Added Indices:		 []
+Matching Object:	 True
+Nexts:			 
+			Graph Space:  6qsovf9fxc
+			Graph Punctuation:  5gtl9eh4le
+Added Word:		 True
+Guid:			 se1xucnxh2
+
+
+ID:			 Number
+Current String:			 
+Parsed Object:		 None
+Start Node:		 None
+Current Nodes:		 None
+Can be Done:		 False
+Must be Done:		 False
+Steps:			 0
+Added Indices:		 []
+Matching Object:	 Graph Number_node: [''] 
+Nexts:			 
+			Graph Number:  8h7oijmigq
+			Graph Space:  41ikse8kxx
+			Graph Punctuation:  uh55lfom83
+Added Word:		 True
+Guid:			 8h7oijmigq
+
+
+ID:			 Punctuation
+Current String:			 
+Parsed Object:		 None
+Start Node:		 None
+Current Nodes:		 None
+Can be Done:		 False
+Must be Done:		 False
+Steps:			 0
+Added Indices:		 []
+Matching Object:	 Graph Punctuation_node: [''] 
+Nexts:			 
+			None
+Added Word:		 False
+Guid:			 uh55lfom83
+
+
+ID:			 Space
+Current String:			 
+Parsed Object:		 None
+Start Node:		 None
+Current Nodes:		 None
+Can be Done:		 False
+Must be Done:		 False
+Steps:			 0
+Added Indices:		 []
+Matching Object:	 Graph Space_node: [''] 
+Nexts:			 
+			None
+Added Word:		 False
+Guid:			 41ikse8kxx
+
+
+ID:			 Punctuation
+Current String:			 
+Parsed Object:		 None
+Start Node:		 None
+Current Nodes:		 None
+Can be Done:		 False
+Must be Done:		 False
+Steps:			 0
+Added Indices:		 []
+Matching Object:	 Graph Punctuation_node: [''] 
+Nexts:			 
+			Graph Number:  8h7oijmigq
+Added Word:		 False
+Guid:			 5gtl9eh4le
+
+
+ID:			 Long Number
+Current String:			 
+Parsed Object:		 None
+Start Node:		 Graph Boolean:  se1xucnxh2
+Current Nodes:		 [<mind_graph.Graph instance at 0x018C75D0>]
+Can be Done:		 False
+Must be Done:		 False
+Steps:			 0
+Added Indices:		 []
+Matching Object:	 []
+Nexts:			 
+Added Word:		 True
+Guid:			 lizoxr6v4l
+
+Found------------------------------------------------------------
+Found------------------------------------------------------------
+Graph Punctuation: | 
+Graph Punctuation: | 
+Graph Word: brackish 
+Graph Space:   
+Graph Word: water 
+Graph Space:   
+Graph Word: species 
+Graph Space:   
+Graph Word: can 
+Graph Space:   
+Graph Number: 4 
+Graph Space:   
+Graph Word: be 
+Graph Space:   
+Graph Word: kept 
+Graph Space:   
+Graph Word: mainly 
+Graph Space:   
+Graph Word: the 
+Graph Space:   
+Graph Word: same 
+Graph Space:   
+Graph Word: as 
+Graph Space:   
+Graph Word: standard 
+Graph Space:   
+Graph Word: freshwater 
+Graph Space:   
+Graph Word: aquaria 
+Graph Punctuation: , 
+Graph Space:   
+Graph Word: but 
+Graph Space:   
+Graph Letter: a 
+Graph Space:   
+Graph Word: hydrometer 
+Graph Space:   
+Graph Word: is 
+Graph Space:   
+Graph Word: used 
+Graph Space:   
+Graph Word: to 
+Graph Space:   
+Graph Word: check 
+Graph Space:   
+Graph Word: the 
+Graph Space:   
+Graph Word: salinity 
+Graph Space:   
+Graph Word: of 
+Graph Space:   
+Graph Word: the 
+Graph Space:   
+Graph Word: water 
+Graph Punctuation: . 
+Graph Space:   
+Graph Word: certain 
+Graph Space:   
+Graph Word: kinds 
+Graph Space:   
+Graph Word: of 
+Graph Space:   
+Graph Word: brackish 
+Graph Space:   
+Graph Word: water 
+Graph Space:   
+Graph Word: fish 
+Graph Space:   
+Graph Word: need 
+Graph Space:   
+Graph Word: to 
+Graph Space:   
+Graph Word: have 
+Graph Space:   
+Graph Word: their 
+Graph Space:   
+Graph Word: salinity 
+Graph Space:   
+Graph Word: increased 
+Graph Space:   
+Graph Word: slightly 
+Graph Space:   
+Graph Word: every 
+Graph Space:   
+Graph Word: six 
+Graph Space:   
+Graph Word: months 
+Graph Punctuation: . 
+Graph Space:   
+Graph Word: the 
+Graph Space:   
+Graph Word: tank 
+Graph Space:   
+Graph Word: sizes 
+Graph Space:   
+Graph Word: can 
+Graph Space:   
+Graph Word: vary 
+Graph Space:   
+Graph Word: widely 
+Graph Space:   
+Graph Word: depending 
+Graph Space:   
+Graph Word: on 
+Graph Space:   
+Graph Word: the 
+Graph Space:   
+Graph Word: needs 
+Graph Space:   
+Graph Word: of 
+Graph Space:   
+Graph Word: the 
+Graph Space:   
+Graph Word: particular 
+Graph Space:   
+Graph Word: species 
+Graph Punctuation: , 
+Graph Space:   
+Graph Word: and 
+Graph Space:   
+Graph Word: the 
+Graph Space:   
+Graph Word: temperature 
+Graph Space:   
+Graph Word: is 
+Graph Space:   
+Graph Word: usually 
+Graph Space:   
+Graph Word: in 
+Graph Space:   
+Graph Word: the 
+Graph Space:   
+Graph Word: tropical 
+Graph Space:   
+Graph Word: range 
+Graph Space:   
+Graph Word: of 
+Graph Space:   
+Graph Number: 7 
+Graph Number: 6 
+Graph Number: 8 
+Graph Number: 2 
+Graph Space:   
+Graph Letter: f 
+Graph Punctuation: . 
+Graph Space:   
+Graph Word: the 
+Graph Space:   
+Graph Word: substrate 
+Graph Space:   
+Graph Word: can 
+Graph Space:   
+Graph Word: vary 
+Graph Space:   
+Graph Word: from 
+Graph Space:   
+Graph Word: sand 
+Graph Space:   
+Graph Word: to 
+Graph Space:   
+Graph Word: gravel 
+Graph Punctuation: , 
+Graph Space:   
+Graph Word: but 
+Graph Space:   
+Graph Word: many 
+Graph Space:   
+Graph Word: aquarists 
+Graph Space:   
+Graph Word: choose 
+Graph Space:   
+Graph Word: crushed 
+Graph Space:   
+Graph Word: coral 
+Graph Space:   
+Graph Word: or 
+Graph Space:   
+Graph Word: aragonite 
+Graph Space:   
+Graph Word: sand 
+Graph Punctuation: , 
+Graph Space:   
+Graph Word: both 
+Graph Space:   
+Graph Word: of 
+Graph Space:   
+Graph Word: which 
+Graph Space:   
+Graph Word: help 
+Graph Space:   
+Graph Word: raise 
+Graph Space:   
+Graph Word: the 
+Graph Space:   
+Graph Word: hardness 
+Graph Space:   
+Graph Word: and 
+Graph Space:   
+Graph Word: ph 
+Graph Space:   
+Graph Word: to 
+Graph Space:   
+Graph Word: an 
+Graph Space:   
+Graph Word: acceptable 
+Graph Space:   
+Graph Word: level 
+Graph Punctuation: . 
+Graph Space:   
+Graph Word: many 
+Graph Space:   
+Graph Word: brackish 
+Graph Space:   
+Graph Word: water 
+Graph Space:   
+Graph Word: fish 
+Graph Punctuation: , 
+Graph Space:   
+Graph Word: as 
+Graph Space:   
+Graph Word: any 
+Graph Space:   
+Graph Word: fish 
+Graph Punctuation: , 
+Graph Space:   
+Graph Word: can 
+Graph Space:   
+Graph Word: jump 
+Graph Space:   
+Graph Word: out 
+Graph Space:   
+Graph Word: of 
+Graph Space:   
+Graph Word: the 
+Graph Space:   
+Graph Word: tank 
+Graph Punctuation: , 
+Graph Space:   
+Graph Word: so 
+Graph Space:   
+Graph Word: it 
+Graph Space:   
+Graph Word: must 
+Graph Space:   
+Graph Word: be 
+Graph Space:   
+Graph Word: covered 
+Graph Punctuation: . 
+Graph Space:   
+Graph Word: some 
+Graph Space:   
+Graph Word: brackish 
+Graph Space:   
+Graph Word: water 
+Graph Space:   
+Graph Word: species 
+Graph Space:   
+Graph Word: come 
+Graph Space:   
+Graph Word: from 
+Graph Space:   
+Graph Word: estuaries 
+Graph Punctuation: . 
+Graph Space:   
+Graph Punctuation: | 
+Graph Punctuation: | 

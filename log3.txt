@@ -1,0 +1,132 @@
+blehhhh
+blehhhh
+blehhhh
+blehhhh
+Found------------------------------------------------------------
+blehhhh
+blehhhh
+THIS HAPPEND
+blehhhh
+blehhhh
+THIS HAPPEND
+blehhhh
+THIS HAPPEND
+blehhhh
+THIS HAPPEND
+blehhhh
+THIS HAPPEND
+Graph Space:  4yhn4x39gl
+Graph Punctuation:  p63dk96sdp
+
+ID:			 Space
+Current String:			 
+Parsed Object:		 None
+Start Node:		 None
+Current Nodes:		 None
+Can be Done:		 False
+Must be Done:		 False
+Steps:			 0
+Added Indices:		 []
+Matching Object:	 Graph Space: [''] pu1aleeoky
+Nexts:			 
+			Graph Number:  zlinkwqyse
+Added Word:		 True
+Guid:			 4yhn4x39gl
+
+
+ID:			 Number
+Current String:			 
+Parsed Object:		 None
+Start Node:		 None
+Current Nodes:		 None
+Can be Done:		 False
+Must be Done:		 False
+Steps:			 0
+Added Indices:		 []
+Matching Object:	 Graph letter_node.txt: ['abcdefghijklmnopqrstuvwxyz'] 
+Nexts:			 
+			Graph Number:  zlinkwqyse
+			Graph Space:  gqosjgak0l
+			Graph Punctuation:  8pw4vpdzgb
+Added Word:		 True
+Guid:			 zlinkwqyse
+
+
+ID:			 Punctuation
+Current String:			 
+Parsed Object:		 None
+Start Node:		 None
+Current Nodes:		 None
+Can be Done:		 False
+Must be Done:		 False
+Steps:			 0
+Added Indices:		 []
+Matching Object:	 Graph punctuation_node.txt: ['.,?!()[]|'] 
+Nexts:			 
+Added Word:		 True
+Guid:			 8pw4vpdzgb
+
+
+ID:			 Boolean
+Current String:			 
+Parsed Object:		 None
+Start Node:		 None
+Current Nodes:		 None
+Can be Done:		 False
+Must be Done:		 False
+Steps:			 0
+Added Indices:		 []
+Matching Object:	 True
+Nexts:			 
+			Graph Space:  4yhn4x39gl
+			Graph Punctuation:  p63dk96sdp
+Added Word:		 True
+Guid:			 1h2tdy9x9e
+
+
+ID:			 Punctuation
+Current String:			 
+Parsed Object:		 None
+Start Node:		 None
+Current Nodes:		 None
+Can be Done:		 False
+Must be Done:		 False
+Steps:			 0
+Added Indices:		 []
+Matching Object:	 Graph punctuation_node.txt: ['.,?!()[]|'] 
+Nexts:			 
+			Graph Number:  zlinkwqyse
+Added Word:		 True
+Guid:			 p63dk96sdp
+
+
+ID:			 Long Number
+Current String:			 
+Parsed Object:		 None
+Start Node:		 Graph Boolean:  1h2tdy9x9e
+Current Nodes:		 [<mind_graph.Graph instance at 0x01927288>]
+Can be Done:		 False
+Must be Done:		 False
+Steps:			 0
+Added Indices:		 []
+Matching Object:	 []
+Nexts:			 
+Added Word:		 True
+Guid:			 yj9gu12oh5
+
+
+ID:			 Space
+Current String:			 
+Parsed Object:		 None
+Start Node:		 None
+Current Nodes:		 None
+Can be Done:		 False
+Must be Done:		 False
+Steps:			 0
+Added Indices:		 []
+Matching Object:	 Graph space_node.txt: [' \t\n'] 
+Nexts:			 
+Added Word:		 True
+Guid:			 gqosjgak0l
+
+Found------------------------------------------------------------

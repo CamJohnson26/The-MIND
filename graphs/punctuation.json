@@ -1,0 +1,7 @@
+[{
+	"graphID" : "Punctuation", 
+	"startNodes" : [
+		"punctuation_node.txt"
+	],
+	"nexts" : []
+}]

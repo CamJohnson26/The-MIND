@@ -1,0 +1,60 @@
+[
+{
+	"graphID" : "Long Number", 
+	"startNodes" : [
+		2, 3
+	],
+	"nexts" : [
+
+	]
+},
+{
+	"graphID" : "Number", 
+	"matches" : [
+		"number_node.txt"
+	],
+	"nexts" : [
+		1, 4, 5
+	]
+},
+{
+	"graphID" : "Space", 
+	"matches" : [
+		"space_node.txt"
+	],
+	"nexts" : [
+		1
+	],
+	"added" : false
+},
+{
+	"graphID" : "Punctuation", 
+	"matches" : [
+		"punctuation_node.txt"
+	],
+	"nexts" : [
+		1
+	],
+	"added" : false
+},
+{
+	"graphID" : "Space", 
+	"matches" : [
+		"space_node.txt"
+	],
+	"nexts" : [
+		-1
+	],
+	"added" : false
+},
+{
+	"graphID" : "Punctuation", 
+	"matches" : [
+		"punctuation_node.txt"
+	],
+	"nexts" : [
+		-1
+	],
+	"added" : false
+}
+]

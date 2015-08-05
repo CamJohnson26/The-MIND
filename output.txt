@@ -1,0 +1,292 @@
+Found------------------------------------------------------------
+Object Punctuation(-1,-1): Punctuation |
+Object Long Pronoun Word(-1,-1): Long Pronoun Word its
+Object Space(-1,-1): Space  
+Object Long Pronoun Word(-1,-1): Long Pronoun Word all
+Object Space(-1,-1): Space  
+Object Letter(-1,-1): Letter a
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word hoax
+Object Punctuation(-1,-1): Punctuation .
+Object Space(-1,-1): Space  
+Object Letter(-1,-1): Letter a
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word fable
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word were
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word eager
+Object Space(-1,-1): Space  
+Object Long Preposition Word(-1,-1): Long Preposition Word to
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word believe
+Object Punctuation(-1,-1): Punctuation ,
+Object Space(-1,-1): Space  
+Object Long Pronoun Word(-1,-1): Long Pronoun Word both
+Object Space(-1,-1): Space  
+Object Long Preposition Word(-1,-1): Long Preposition Word as
+Object Space(-1,-1): Space  
+Object Long Article Word(-1,-1): Long Article Word the
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word pickers
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word and
+Object Space(-1,-1): Space  
+Object Long Article Word(-1,-1): Long Article Word the
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word picked
+Object Space(-1,-1): Space  
+Object Punctuation(-1,-1): Punctuation (
+Object Word(-1,-1): Word and
+Object Space(-1,-1): Space  
+Object Long Article Word(-1,-1): Long Article Word the
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word rejected
+Object Punctuation(-1,-1): Punctuation )
+Object Punctuation(-1,-1): Punctuation .
+Object Space(-1,-1): Space  
+Object Space(-1,-1): Space  
+Object Long Pronoun Word(-1,-1): Long Pronoun Word what
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word would
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word happen
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word if
+Object Space(-1,-1): Space  
+Object Long Pronoun Word(-1,-1): Long Pronoun Word we
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word spent
+Object Space(-1,-1): Space  
+Object Long Pronoun Word(-1,-1): Long Pronoun Word more
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word time
+Object Space(-1,-1): Space  
+Object Long Preposition Word(-1,-1): Long Preposition Word on
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word carefully
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word assembling
+Object Space(-1,-1): Space  
+Object Long Article Word(-1,-1): Long Article Word the
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word pool
+Object Space(-1,-1): Space  
+Object Long Preposition Word(-1,-1): Long Preposition Word of
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word good
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word enough
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word and
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word then
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word randomly
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word picking
+Object Space(-1,-1): Space  
+Object Long Article Word(-1,-1): Long Article Word the
+Object Space(-1,-1): Space  
+Object Long Number(-1,-1): Long Number 5
+Object Punctuation(-1,-1): Punctuation ?
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word and
+Object Space(-1,-1): Space  
+Object Long Preposition Word(-1,-1): Long Preposition Word of
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word course
+Object Punctuation(-1,-1): Punctuation ,
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word putting
+Object Space(-1,-1): Space  
+Object Long Preposition Word(-1,-1): Long Preposition Word in
+Object Space(-1,-1): Space  
+Object Long Article Word(-1,-1): Long Article Word the
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word time
+Object Space(-1,-1): Space  
+Object Long Preposition Word(-1,-1): Long Preposition Word to
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word make
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word sure
+Object Space(-1,-1): Space  
+Object Long Pronoun Word(-1,-1): Long Pronoun Word that
+Object Space(-1,-1): Space  
+Object Long Article Word(-1,-1): Long Article Word the
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word assortment
+Object Space(-1,-1): Space  
+Object Long Preposition Word(-1,-1): Long Preposition Word of
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word people
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word works
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word well
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word together
+Object Punctuation(-1,-1): Punctuation .
+Object Punctuation(-1,-1): Punctuation .
+Object Punctuation(-1,-1): Punctuation .
+Object Space(-1,-1): Space  
+Object Space(-1,-1): Space  
+Object Punctuation(-1,-1): Punctuation [
+Object Long Preposition Word(-1,-1): Long Preposition Word for
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word football
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word fans
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word tom
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word brady
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word and
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word russell
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word wilson
+Object Space(-1,-1): Space  
+Object Punctuation(-1,-1): Punctuation (
+Object Word(-1,-1): Word late
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word picks
+Object Space(-1,-1): Space  
+Object Long Pronoun Word(-1,-1): Long Pronoun Word who
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word win
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word big
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word games
+Object Punctuation(-1,-1): Punctuation )
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word are
+Object Space(-1,-1): Space  
+Object Long Preposition Word(-1,-1): Long Preposition Word as
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word likely
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word outcomes
+Object Space(-1,-1): Space  
+Object Long Preposition Word(-1,-1): Long Preposition Word as
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word peyton
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word manning
+Object Space(-1,-1): Space  
+Object Punctuation(-1,-1): Punctuation (
+Object Word(-1,-1): Word superselected
+Object Punctuation(-1,-1): Punctuation )
+Object Punctuation(-1,-1): Punctuation .
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word super
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word bowl
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word quarterbacks
+Object Punctuation(-1,-1): Punctuation ,
+Object Space(-1,-1): Space  
+Object Long Preposition Word(-1,-1): Long Preposition Word as
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word highrevenue
+Object Space(-1,-1): Space  
+Object Letter(-1,-1): Letter a
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word selection
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word choice
+Object Space(-1,-1): Space  
+Object Long Preposition Word(-1,-1): Long Preposition Word as
+Object Space(-1,-1): Space  
+Object Long Pronoun Word(-1,-1): Long Pronoun Word one
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word can
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word make
+Object Punctuation(-1,-1): Punctuation ,
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word come
+Object Space(-1,-1): Space  
+Object Long Preposition Word(-1,-1): Long Preposition Word as
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word often
+Object Space(-1,-1): Space  
+Object Long Preposition Word(-1,-1): Long Preposition Word in
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word late
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word rounds
+Object Space(-1,-1): Space  
+Object Long Preposition Word(-1,-1): Long Preposition Word as
+Object Space(-1,-1): Space  
+Object Long Pronoun Word(-1,-1): Long Pronoun Word they
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word do
+Object Space(-1,-1): Space  
+Object Long Preposition Word(-1,-1): Long Preposition Word in
+Object Space(-1,-1): Space  
+Object Long Article Word(-1,-1): Long Article Word the
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word first
+Object Space(-1,-1): Space  
+Object Long Pronoun Word(-1,-1): Long Pronoun Word one
+Object Punctuation(-1,-1): Punctuation .
+Object Punctuation(-1,-1): Punctuation ]
+Object Space(-1,-1): Space  
+Object Space(-1,-1): Space  
+Object Punctuation(-1,-1): Punctuation [
+Object Long Preposition Word(-1,-1): Long Preposition Word for
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word baseball
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word fans
+Object Space(-1,-1): Space  
+Object Long Preposition Word(-1,-1): Long Preposition Word as
+Object Space(-1,-1): Space  
+Object Long Pronoun Word(-1,-1): Long Pronoun Word we
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word saw
+Object Space(-1,-1): Space  
+Object Long Preposition Word(-1,-1): Long Preposition Word in
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word moneyball
+Object Punctuation(-1,-1): Punctuation ,
+Object Space(-1,-1): Space  
+Object Long Article Word(-1,-1): Long Article Word the
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word traditional
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word scouting
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word process
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word was
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word essentially
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word random
+Object Punctuation(-1,-1): Punctuation ,
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word and
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word replacing
+Object Space(-1,-1): Space  
+Object Long Pronoun Word(-1,-1): Long Pronoun Word it
+Object Space(-1,-1): Space  
+Object Long Preposition Word(-1,-1): Long Preposition Word by
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word actually
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word correlated
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word signals
+Object Space(-1,-1): Space  
+Object Word(-1,-1): Word changed
+Object Space(-1,-1): Space  
+Object Long Pronoun Word(-1,-1): Long Pronoun Word everything
+Object Punctuation(-1,-1): Punctuation .
+Object Punctuation(-1,-1): Punctuation ]
+Object Punctuation(-1,-1): Punctuation |

@@ -1,0 +1,7 @@
+[{
+	"graphID" : "Number", 
+	"startNodes" : [
+		"number_node.txt"
+	],
+	"nexts" : []
+}]
