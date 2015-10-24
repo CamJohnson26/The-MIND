@@ -13,7 +13,7 @@ class Graph:
 	graphID = "";
 	steps = 0;
 	added_indices = [];
-	matching_object = None;
+	matching_object = None
 	nexts = []
 	addedWord = True; # Says whether this node is part of the finished product or just context
 	guid = "";
